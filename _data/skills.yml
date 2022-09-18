@@ -1,12 +1,16 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Programming Languages
+  description: C, C++, Python, Java and JavaScript
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Packages
+- skill: Frameworks and Libraries
+  description: Pytorch, OpenMP, OpenMPI
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Technical Sophistication
+- skill: Other Programmer Skills
+  description: Experience with Git, Linux shell and remote servers
+
+# English Proficiency
+- skill: English Proficiency
+  description: TOEFL - Reading 30, Listening 30, Speaking 23, Writing 27

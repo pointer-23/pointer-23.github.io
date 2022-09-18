@@ -1,16 +1,22 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# CPU
+- project: Implementation of a Pipelined RISCV CPU
+  role: Group Project for Computer Organization 2021 Fall, Tsinghua University
+  duration: Nov, 2021 
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: My role is to implement the digital logic for exceptional control flow and memory address translation as specified by the RISCV manual.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Renderer
+- project: Image Renderer based on Path Tracing
+  role: Course Project for Fundamentals of Computer Graphics 2021 Spring, Tsinghua University
+  duration: June, 2021
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: <ul class="resume-item-list"><li>Code is based on a framework provided by the course TAs, but path tracing and the following features are implemented individually.</li><li>Features include texture mapping, parametric surfaces, depth of field and bounding box acceleration of complex meshes.</li></ul>
+
+# Sniffer
+- project: Packet Sniffer on FPGA
+  role: Group Project for Digital Logic Design 2021 Spring, Tsinghua University
+  duration: April, 2021; June, 2021
+  description: <ul class="resume-item-list"><li>A toy IPv4 packet sniffer able to list information about passing packets, based on a FPGA with Ethernet and VGA interface</li><li>My role is to integrate <a href="http://alexforencich.com/wiki/en/verilog/ethernet/start">open source Verilog code</a> dealing with the Ethernet interface and pass on relevant information to my teammate Yujia Luo, who post-processes them and displays them through VGA</li></ul>
