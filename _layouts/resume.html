@@ -112,7 +112,7 @@
           <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
           <div style="vertical-align:top; width: 100%; display: flex; flex-direction: row;">
             <p class="resume-item-copy">{{ project.description }}</p>
-            <img src="{{project.img}}" alt="{{project.img_description}}" style="width: 30%;">
+            <img src="{{project.img}}" alt="{{project.img_description}}" style="width: 30%; object-fit:contain;">
           </div>
         </div>
         {% endfor %}
