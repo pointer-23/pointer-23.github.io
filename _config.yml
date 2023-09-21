@@ -11,10 +11,10 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ziao Wang"
-resume_title:                   "Senior Year Student, Department of Computer Science and Engineering, Tsinghua University"
+resume_title:                   "Graduate Student, UC Santa Barbara"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "wang-za19@mails.tsinghua.edu.cn"
+resume_contact_email:           "wangziao9@outlook.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a senior in Tsinghua University majoring in computer science and technology. I am currently applying for graduate programs in computer science.</p>"
+resume_header_intro: "<p>I am a first year master's student in UC Santa Barbara majoring in computer science. I am currently looking for labs to join.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
