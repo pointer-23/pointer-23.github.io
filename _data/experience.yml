@@ -3,14 +3,14 @@
 - company: Benchmarking PINNs
   position: Group member
   duration: February 2023 &mdash; August 2023
-  summary: <ul class="resume-item-list"> <li>Creates the benchmarking toolbox "PINNacle" consisting of diverse PDE test cases, various PINN variants and their implementation</li><li>Gives a comprehensive comparison between different PINN methods across PDEs representing different physical scenarios</li><li>Personally responsible for implementing and testing PINN variants utilizing domain decomposition methods</li> </ul>
+  summary: <ul class="resume-item-list"> <li>Creates the benchmarking toolbox "PINNacle" that helps provide a comprehensive comparison between different PINN methods across PDEs representing different physical scenarios</li><li>Contributed to project by implementing the part of the toolbox that tests domain decomposition methods in PINNs</li> </ul>
 
 - company: Resilience in Science
   position: Student Research Intern (advised by Kristina Lerman, collaborated with Kian Ahrabian)
   duration: June, 2022 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Identifying the pandemic's impact to the output, participation and collaboration of the scientific community</li><li>Constructing collaboration networks from bibliographic datasets, analyzing metrics of network science</li></ul>
+  summary: <ul class="resume-item-list"><li>Identified the pandemic's impact to the output, participation and collaboration of the scientific community by constructing collaboration networks from bibliographic datasets and analyzing metrics of network science</li></ul>
 
 - company: User Privacy in the Prompt Learning Paradigm
   position: Research Assistant (advised by Zhiyuan Liu, collaborated with Ganqu Cui)
   duration:  Sept, 2021 &mdash; May, 2022
-  summary: <ul class="resume-item-list"><li>Investigated privacy leakage of sensitive user information by deep learning models</li><li>Conducted experiments on extracting private user information under the prompt learning paradigm of NLP</li><li>Demonstrated that deep learning models with prompt learning do not leak more sensitive information than those with fine-tuning, and attack methods with prompt learning can not extract more sensitive information than baselines</li></ul>
+  summary: <ul class="resume-item-list"><li>Demonstrated that deep learning models with prompt learning do not leak more sensitive information than those with fine-tuning, and attack methods with prompt learning can not extract more sensitive information than baselines</li><li>Research is done by conducting demonstration experiments of extracting private user information under the prompt learning paradigm of NLP</li></ul>
