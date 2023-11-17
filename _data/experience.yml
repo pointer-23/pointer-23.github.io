@@ -3,7 +3,7 @@
 - company: Benchmarking PINNs
   position: Group member
   duration: February 2023 &mdash; August 2023
-  summary: <ul class="resume-item-list"> <li>Creates the benchmarking toolbox "PINNacle" that helps provide a comprehensive comparison between different PINN methods across PDEs representing different physical scenarios</li><li>Contributed to project by implementing the part of the toolbox that tests domain decomposition methods in PINNs</li> </ul>
+  summary: <ul class="resume-item-list"> <li>Creates the benchmarking toolbox "PINNacle" that helps provide a comprehensive comparison between different PINN methods across PDEs representing different physical scenarios</li><li>Contributed to project by implementing the part of the toolbox that tests domain decomposition methods in PINNs</li> <li>Check out our source code and preprint <a href="https://github.com/i207M/PINNacle">here</a>!</li> </ul>
 
 - company: Resilience in Science
   position: Student Research Intern (advised by Kristina Lerman, collaborated with Kian Ahrabian)
